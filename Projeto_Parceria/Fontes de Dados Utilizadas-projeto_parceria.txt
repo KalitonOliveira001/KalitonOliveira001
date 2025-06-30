@@ -1,0 +1,12 @@
+ Fontes de Dados Utilizadas
+
+ 1. Our World in Data – COVID-19 Dataset
+- Fonte: https://ourworldindata.org/covid-deaths
+- Link direto: https://covid.ourworldindata.org/data/owid-covid-data.csv
+- Tipo: Estruturado (.csv)
+- Coleta: Download direto
+- Descrição: Casos, óbitos, vacinação, população e testes por país, com dados diários desde o início da pandemia.
+
+ 2. Arquivo do projeto: casos_confirmados.ipynb
+- Descrição: Script de análise exploratória da COVID-19 com pandas
+- Ferramenta: Google Colab

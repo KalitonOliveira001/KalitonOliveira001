@@ -1,0 +1,18 @@
+ – COVID-19 no Brasil
+
+
+
+- O Brasil ultrapassou 38 milhões de casos confirmados de COVID-19.
+- O maior pico de casos ocorreu em janeiro de 2022.
+- A vacinação teve início em janeiro de 2021 e teve forte crescimento até meados de 2022.
+
+
+
+- As taxas de mortalidade atingiram picos de mais de 3 mortes por 100 mil habitantes por dia em diversos períodos críticos.
+- A introdução das vacinas reduziu significativamente o número de óbitos a partir do segundo semestre de 2021.
+- Casos novos acompanharam variações por cepas (como Ômicron), mas com menor letalidade nos últimos surtos.
+
+
+
+A análise reforça a importância da vacinação e de políticas públicas baseadas em dados. Regiões com maior cobertura vacinal mostraram menores taxas de mortalidade.
+(link do painel de visualização no Looker Studio :https://lookerstudio.google.com/reporting/71f6b436-d2df-4bf2-a4f0-ce1f5d71bac4
